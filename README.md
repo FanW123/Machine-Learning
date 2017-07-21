@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Andrew Ng's Machine Learning courses in Coursera
+Andrew Ng's Machine Learning courses on Coursera
 
 ### Implement the following eight assignments with matlab:
 1. Implement linear regression and get to see it work on data. 
